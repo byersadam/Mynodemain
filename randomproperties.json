@@ -1,0 +1,30 @@
+[
+  {
+    "item_id": "item1",
+    "name": "Savannah Spirit Elixir",
+    "type": "Consumable",
+    "price": 10,
+    "motif": "Lion's Mane"
+  },
+  {
+    "item_id": "item2",
+    "name": "African Blaze Blade",
+    "type": "Weapon",
+    "price": 50,
+    "motif": "Safari Sunset"
+  },
+  {
+    "item_id": "item3",
+    "name": "Mystic Djembe Drum",
+    "type": "Instrument",
+    "price": 40,
+    "motif": "Tribal Rhythms"
+  },
+  {
+    "item_id": "item4",
+    "name": "Serpent Guardian Shield",
+    "type": "Armor",
+    "price": 30,
+    "motif": "Serpent Scales"
+  }
+]

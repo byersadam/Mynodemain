@@ -1,0 +1,18 @@
+[
+  {
+    "user_id": "user1",
+    "preferences": {
+      "favorite_items": ["sword", "bow"],
+      "equipped_weapon": "item2",
+      "motif_preference": "African Wildlife"
+    }
+  },
+  {
+    "user_id": "user2",
+    "preferences": {
+      "favorite_items": ["item3", "item4"],
+      "equipped_weapon": "item3",
+      "motif_preference": "Tribal Art"
+    }
+  }
+]
